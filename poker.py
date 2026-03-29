@@ -11,7 +11,7 @@ the highest pair in each round
 """
 
 import random
-import click_
+import click
 
 def deck_of_cards():
     """

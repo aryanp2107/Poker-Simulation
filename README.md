@@ -27,26 +27,6 @@ A command-line poker hand simulator that uses probability to evaluate and compar
  
 ## Setup
  
-### Prerequisites
- 
-- Python 3.12+
- 
-### Installation
- 
-```bash
-# Clone the repository
-git clone https://github.com/aryanp2107/Poker-Simulation.git
-cd Poker-Simulation
- 
-# Create and activate a virtual environment
-python3 -m venv myenv
-source myenv/bin/activate        # macOS/Linux
-myenv\Scripts\activate           # Windows
- 
-# Install dependencies
-pip install -r requirements.txt
-```
- 
 ### Dev Container (GitHub Codespaces / VS Code)
  
 This project includes a `.devcontainer` configuration. To use it:
